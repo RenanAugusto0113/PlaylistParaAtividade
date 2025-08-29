@@ -1,4 +1,4 @@
-Player de video para atividade universitaria, não esta perfeito, mas foi o que eu consegui fazer no tempo curto que tive
+Player de video para atividade universitaria, não esta perfeito, mas foi o que eu consegui fazer no tempo curto que tive*
 
 O projeto contém os quatro pilares da orientação objeto porque:
 
@@ -26,6 +26,4 @@ Reutilização de código base
 4. Polimorfismo através de:
 Interfaces compartilhadas
 
-Comportamentos diferentes baseados em tipos
-
-Tratamento uniforme de objetos diversos
+Para utilizar abra o projeto e no terminal insira o codigo "npm run dev" e abra seu navegador no endereço "https://localhost:9000"
