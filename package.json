@@ -1,0 +1,26 @@
+{
+  "name": "playervideo",
+  "version": "1.0.0",
+  "description": "Um player de video com playlists e controles para atividade da Unifeob",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack serve --mode development",
+    "start": "webpack serve --mode development --open",
+    "serve": "http-server dist -p 8080"
+  },
+  "keywords": [],
+  "author": "Renan Augusto",
+  "license": "GPL-3.0-only",
+  "type": "commonjs",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.2",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
